@@ -1,0 +1,21 @@
+Leila@DESKTOP-FS8EDT2 MINGW64 ~/Desktop/Curso Java/M2 Fundamentos de desarrollo Front-End/Repositorio
+
+
+$           dir
+
+
+
+New\ Text\ Document\ (2).txt  New\ Text\ Document.txt
+
+Leila@DESKTOP-FS8EDT2 MINGW64 ~/Desktop/Curso Java/M2 Fundamentos de desarrollo Front-End/Repositorio
+
+
+$             git init
+
+
+
+Initialized empty Git repository in C:/Users/Leila/Desktop/Curso Java/M2 Fundamentos de desarrollo Front-End/Repositorio/.git/
+
+Leila@DESKTOP-FS8EDT2 MINGW64 ~/Desktop/Curso Java/M2 Fundamentos de desarrollo Front-End/Repositorio (master)
+
+
